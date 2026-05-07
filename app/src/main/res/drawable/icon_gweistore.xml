@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="100dp"
+    android:height="104.580444dp"
+    android:viewportWidth="2598"
+    android:viewportHeight="2716.1">
+
+    <path
+        android:fillType="evenOdd"
+        android:pathData="M1302.7,39.8c428.6,0 794.3,370 937.8,890.4l178.1,0.3c87.1,225.6 132.4,391.5 102.7,661.9 -35.6,323.6 -210.4,618.2 -444.1,808.8 -396.6,323.5 -941.1,366.9 -1396.9,110.6 -40.3,-22.7 -80.9,-48.7 -117.4,-75.6 -92.4,-68.1 -128.5,-110 -198.1,-187.8 -153.6,-171.8 -267.1,-416.8 -292.4,-671.8 -12.3,-124.1 -5.9,-247 15.6,-366.6 12.4,-68.9 56.3,-242.1 96.5,-279.7 44.1,38.1 94.4,83.3 149.3,133.3 114.1,-589.5 504.6,-1023.7 968.9,-1023.7zM2104.4,929.9c-136.5,-422.5 -444,-717.2 -801.7,-717.2 -421.1,0 -772.8,408.4 -857.5,953 347.8,320.9 809.8,757.3 1046.9,885 60.3,32.5 130.6,39.7 199.2,28.3l0,0c89.8,-21.3 192,-130.4 231.1,-192.2 79.7,-125.8 121.8,-267.5 140.2,-414 4.7,-37 7.1,-78.3 7.5,-117.1 0.1,-8.4 0.1,-16.7 0,-24.8 -282.9,-74.7 -567.6,-164.4 -857.9,-240l41.8,-162.6 850.3,1.6z">
+
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="0"
+                android:startY="0"
+                android:endX="2598"
+                android:endY="2716.1">
+
+                <!-- Premium multi-stop gradient -->
+                <item android:offset="0.3" android:color="#00C6FF"/>  <!-- steel blue -->
+                <item android:offset="0.6" android:color="#007A9D"/>  <!-- rich blue -->
+                <item android:offset="0.85" android:color="#004052"/> <!-- soft yellow -->
+
+            </gradient>
+        </aapt:attr>
+
+    </path>
+
+</vector>
